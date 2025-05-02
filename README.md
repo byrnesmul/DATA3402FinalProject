@@ -60,7 +60,7 @@ Model training was performed using scikit-learn within a Jupyter Notebook enviro
 - **Software**: Python 3, Jupyter Notebook
 - **Libraries**: pandas, numpy, matplotlib, scikit-learn
 - **Environment**: Google Colab (CPU instance)
-- 
+
 Training took about 5–10 minutes total.
 
 ---
