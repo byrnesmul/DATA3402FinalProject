@@ -24,10 +24,13 @@ Structured tabular data was provided in CSV format, including features such as a
 - Standardized numerical features (`Age`, `CreditScore`, etc.) using `StandardScaler`.
 
 ### Data Visualization
-To gain insight into the underlying data structure, normalized histograms and bar plots were created for key features, separated by churn outcome. Visualizations revealed trends, such as higher exit rates among older customers and those with higher balances. We proceed by doing the following:
-- Normalized histograms of features like `Age`, `CreditScore`, etc. split by exited/stayed customers.
-- Bar charts for categorical features.
-- Identified features like `Age` and `CreditScore` as strongly correlated to churn.
+To gain insight into the underlying data structure, visual analysis was conducted using normalized histograms and bar plots. These visualizations highlighted meaningful trends in the data — for example, older customers and those with higher account balances appeared more likely to exit. Categorical differences by geography and gender were also explored.
+
+The following key visual techniques were applied:
+- Histogram comparisons for numerical features (`Age`, `CreditScore`, etc.) segmented by churn outcome
+- Bar plots for categorical variables (`Geography`, `Gender`) to show class-wise distribution
+- Identification of the most influential features, such as `Age` and `CreditScore`, based on observed class separation
+
 #### Feature Visualizations
 
 ![](HistAge.png)
