@@ -71,7 +71,7 @@ The following metrics were used to compare model performance: Accuracy, Precisio
 | Model                 | Accuracy | Precision | Recall | F1 Score |
 |:----------------------|:---------|:----------|:-------|:---------|
 | Random Forest          | 0.865    | 0.790     | 0.500  | 0.610    |
-| Logistic Regression    | 0.840    | 0.740     | 0.450  | 0.560    |
+| Logistic Regression    | 0.833    | 0.740     | 0.450  | 0.560    |
 
 - **ROC curves** were plotted for model evaluation.
 - **Random Forest** performed better across most metrics.
