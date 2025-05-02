@@ -76,6 +76,10 @@ The following metrics were used to compare model performance: Accuracy, Precisio
 - **ROC curves** were plotted for model evaluation.
 - **Random Forest** performed better across most metrics.
 
+### ROC Curve Comparison
+
+![](ROC_Curve.png)
+
 ---
 
 ## Conclusions
