@@ -31,7 +31,7 @@ The following key visual techniques were applied:
 - Bar plots for categorical variables (`Geography`, `Gender`) to show class-wise distribution
 - Identification of the most influential features, such as `Age` and `CreditScore`, based on observed class separation
 
-#### Feature Visualizations
+### Feature Visualizations
 
 ![](HistAge.png)
 ![](HistCreditScore.png)
