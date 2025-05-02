@@ -28,10 +28,12 @@ This repository holds an attempt to predict customer churn using data from a Kag
 - Standardized numerical features (`Age`, `CreditScore`, etc.) using `StandardScaler`.
 
 ### Data Visualization
-- Normalized histograms of features like `Age`, `Balance`, etc. split by exited/stayed customers.
+- Normalized histograms of features like `Age`, `CreditScore`, etc. split by exited/stayed customers.
 - Bar charts for categorical features.
-- Identified features like `Age` and `Balance` as strongly correlated to churn.
+- Identified features like `Age` and `CreditScore` as strongly correlated to churn.
+#### Some Feature Visualizations
 
+![](HistAge.png)
 ---
 
 ## Problem Formulation
