@@ -6,10 +6,7 @@
 This repository holds an attempt to predict customer churn using data from a Kaggle tabular classification challenge (Bank Churn Dataset).
 
 ## Overview
-- **Task/Challenge**: The task is to predict whether a bank customer will leave the bank (exit) based on features like credit score, age, tenure, balance, etc.
-- **Approach**: We treated the problem as a binary classification task. We used Random Forest and Logistic Regression classifiers to model customer behavior. Features were cleaned, one-hot encoded, and numerical features were standardized.
-- **Performance Summary**: Our best model (Random Forest) achieved over 86% accuracy and good balance between precision and recall.
-
+The task was to predict whether a bank customer would exit the bank based on features such as credit score, age, tenure, balance, and others. We approached this as a binary classification problem using Random Forest and Logistic Regression classifiers to model customer behavior. The data was preprocessed by cleaning, applying one-hot encoding to categorical features, and standardizing numerical features. Among the models tested, Random Forest performed best, achieving over 86% accuracy with a good balance between precision and recall.
 ---
 
 ## Summary of Work Done
