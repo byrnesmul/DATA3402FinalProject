@@ -119,3 +119,5 @@ Training took about 5–10 minutes total.
 
 Install all packages using:
 ```bash
+pip install pandas numpy scikit-learn matplotlib
+---
