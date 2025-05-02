@@ -34,6 +34,9 @@ This repository holds an attempt to predict customer churn using data from a Kag
 #### Some Feature Visualizations
 
 ![](HistAge.png)
+![](HistCreditScore.png)
+![](HistGeo.png)
+![](HistGender.png)
 ---
 
 ## Problem Formulation
